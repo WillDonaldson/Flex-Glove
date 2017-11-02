@@ -45,7 +45,7 @@ void loop() {
     val=analogRead(flexPins[i]);                  //reads the position of the finger
    
     /* 
-     * The following if and else if pair of statements are because 2 of the servos are orientated in reverse to the other 3 (see youtube video around 5:14 minute mark)
+     * The following if and else if pair of statements are because 2 of the servos are orientated in reverse to the other 3 (see youtube video around 5:11 minute mark)
      * As such depending on which servo is being written to the angle may need to be reversed. 
      * The angles depend case by case basis of how you oreintate the servos and which fingers the fishing line goes to, change the code as needed
      */
