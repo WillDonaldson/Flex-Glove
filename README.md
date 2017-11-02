@@ -1,3 +1,3 @@
 # Flex-Glove
 
-Come back and add remarks about the baudrate and serial monitor issue
+If you have issues with the baud rate please see my instructable under the section "Step 6: Comment on the baud rate" 
